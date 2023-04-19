@@ -95,3 +95,10 @@ coverage.xml
 /htmlcov/
 
 **/UserSettings/*
+com.unity.ml-agents/Samples.meta
+com.unity.ml-agents/Samples/3DBall.meta
+com.unity.ml-agents/Samples/3DBall/3DBall.unitypackage.meta
+Project/ProjectSettings/boot.config
+Project/ProjectSettings/MemorySettings.asset
+Project/ProjectSettings/PackageManagerSettings.asset
+Project/ProjectSettings/VersionControlSettings.asset
